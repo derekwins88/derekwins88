@@ -57,13 +57,14 @@ The goal is to test whether invariant monitoring forms a foundational layer for 
 
 ## Active Projects
 
+**Full portfolio:** [Sovereign Intelligence Nexus →](https://github.com/derekwins88/sovereign-intelligence-nexus)
+
 | Project | Focus | Status |
 |---------|-------|--------|
 | **Stallion Core** | Cross-domain validation & entropy-aware drift detection | Advanced prototype |
 | **LUXEM Prediction Lab** | Entropy-based regime detection in volatile environments | Live prototype |
 | **Unified Phi Layer** | Multi-source confidence consensus & drift integration | Integrated research module |
 | **Sovereign Terminal** | Unified monitoring interface for distributed telemetry | Active development |
-| **Entropy Monitor** | Signal integrity tracking and confidence decay observability | Experimental module |
 
 ---
 
