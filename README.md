@@ -20,7 +20,7 @@ AI systems rarely fail because they are completely wrong. They fail because they
 
 I treat self-monitoring and coherence tracking as first-class architectural concerns.
 
-### Upwork Short Bio (600-char version)
+### Upwork Short Bio 
 
 I design monitoring architectures for autonomous and AI systems operating where silent failure is unacceptable. My work focuses on confidence tracking — detecting entropy drift, regime transitions, and coherence loss so systems can decide when to act, escalate, or pause. I build infrastructure that knows when to stop trusting itself.
 
